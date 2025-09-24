@@ -1,1 +1,6 @@
-
+{
+  "versionCode": 1,
+  "version": "v1.0.0",
+  "zipUrl": "https://github.com/kkwddd/-Aurora-/releases/download/v1.0/Aurora.zip",
+  "changelog": "https://github.com/shadow3aaa/fas-rs/raw/master/update/zh-CN/changelog.md"
+}
